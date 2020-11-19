@@ -2504,6 +2504,8 @@
 
 			.image.round img {
 				border-radius: 100%;
+				height: 328px;
+    			object-fit: cover;
 			}
 
 		.image.main {
@@ -3839,8 +3841,8 @@
 
 				#banner .button {
 					/* width: 100%; */
-					height: 2.85em;
-					line-height: 2.95em;
+					/* height: 2.85em;
+					line-height: 2.95em; */
 
 				}
 
