@@ -2899,8 +2899,10 @@
 
 		.wrapper.style1 {
 			background-color: #fafafa;
-			color: #999999;
-		}
+			/* color: #999999; */
+			color: #5d5d5d
+			/* color: black; */
+		}	
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
 				color: #000;
@@ -3922,3 +3924,12 @@
 			}
 
 		}
+
+#email {
+	color: #5d5d5d;
+}
+
+#email:hover {
+	color: black;
+	font-weight: 900;
+}
